@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#AVA-9036] As an engineer I want to submit an open source contribution request for one repositories</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://commbank.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://commbank.atlassian.net/browse/AVA-8834">Restrict human use of external personal GitHub accounts</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://commbank.atlassian.net/browse/AVA-8834">AVA-8834</a>)</span>
+                <h3 class="formtitle"><img src="https://commbank.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [AVA-9036]&nbsp;<a href="https://commbank.atlassian.net/browse/AVA-9036">As an engineer I want to submit an open source contribution request for one repositories</a>
+            <span class="subText">
+               Created: 13/Aug/26                   &nbsp;Updated: 14/Aug/26
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">In Progress</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://commbank.atlassian.net/secure/BrowseProject.jspa?id=43405">EngPathways - Source Code Platform</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://commbank.atlassian.net/browse/AVA-8834">Restrict human use of external personal GitHub accounts</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="5cb02aa961be986277e63e5f"
+                id="word_reporter_5cb02aa961be986277e63e5f"
+                href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=5cb02aa961be986277e63e5f">
+                    Neha Bansal
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:f2ee1ef2-b992-4a99-8ef3-b300e1deeb05"
+                id="word_assignee_712020:f2ee1ef2-b992-4a99-8ef3-b300e1deeb05"
+                href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Af2ee1ef2-b992-4a99-8ef3-b300e1deeb05">
+                    A Muhammed Abdul Majeeth
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-21537282-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Acceptance Criteria:</b></td>
+                <td id="customfield_11500-21537282-value" class="value" bgcolor="#ffffff" width="80%">      <ul>
+	<li>Help the Engineer with right guides and process</li>
+	<li>Requirements:
+	<ul>
+		<li>How users will get approval for all the repositories they need to contribute as per <a href="https://commbank.atlassian.net/wiki/spaces/CFTT/pages/2160130902/Open+Source+Contributions+Guidelines#4.-Approval-Process" title="smart-link" class="external-link" rel="nofollow noreferrer">https://commbank.atlassian.net/wiki/spaces/CFTT/pages/2160130902/Open+Source+Contributions+Guidelines#4.-Approval-Process</a></li>
+		<li>Solution purely for audit trail, documentation purpose only</li>
+		<li>Have all the right approvals</li>
+		<li>Allow users to add more than one repo</li>
+		<li>Checkbox to read the policy</li>
+		<li>Proposed solution - “Self Service Portal?”</li>
+	</ul>
+	</li>
+	<li>Entry fields:
+	<ul>
+		<li>Engineer name and GHEC GitHub Handle (_cba)</li>
+		<li>Engineer public Github Handle (TBD - personal information?)</li>
+		<li>Engineers team and Line Manager;</li>
+		<li>A description of the intended contribution;</li>
+		<li>the business benefit to CBA;</li>
+		<li>The specific changes you intend to make;</li>
+		<li>whether the contribution involves AI-related or security-sensitive material.</li>
+		<li>The open source repository URL;</li>
+		<li>The repository licence and contribution agreement, where known;</li>
+		<li>relevant risk considerations;</li>
+		<li>the expected contribution period;</li>
+	</ul>
+	</li>
+	<li>Approval process:
+	<ul>
+		<li>Line-manager support → Users has to tag the CBA GHE Handle for the individual</li>
+		<li>One approval from the Chief Engineer or Principal Engineer layer within your domain → Users has to tag the CBA GHE Handle for the individual</li>
+		<li>One approval from the Open Source Reviewers layer → A new “Open Source Reviewers” team created in Self-Service Portal Org with predefined static list of GHEC users (New ticket to introduce Identity Group to sync)</li>
+		<li>Approval from the Engineering Practice → A new “Open Source Reviewers” team created in Self-Service Portal Org with predefined static list of GHEC users (New ticket to introduce Identity Group to sync)</li>
+		<li>Final approval and endorsement from Brendan Hopper in Group Strategy</li>
+	</ul>
+	</li>
+</ul>
+
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10900-21537282-value" class="value" bgcolor="#ffffff" width="80%">SCP.FY27.1.3 [05/08 - 18/08]</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>As an engineer I want to submit an open source contribution request so that we can push code to open source repository in GitHub</p>
+
+<hr />
+
+<p>Idea for the approval process:</p>
+
+<p>Requestor will fill in the GHEC CBA handle for:</p>
+
+<ul>
+	<li>Line-manager support → Users has to tag the CBA GHE Handle for the individual</li>
+	<li>One approval from the Chief Engineer or Principal Engineer layer within your domain</li>
+</ul>
+
+
+<p>Also, ideally this will have a phased workflow run so each step will run after the other. i.e: </p>
+
+<ol>
+	<li>Line-manager gets requested for approval</li>
+	<li>after 1. approved, Chief Engineer or Principal Engineer gets requested for approval</li>
+	<li>after 2. &lt;continue&gt;</li>
+</ol>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-19057069"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="557058:820d018f-51ea-4c3e-bce9-9cedca33d51e"
+                id="word_commented_557058:820d018f-51ea-4c3e-bce9-9cedca33d51e"
+                href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=557058%3A820d018f-51ea-4c3e-bce9-9cedca33d51e">
+                    Fabio Robibaro
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">13/Aug/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-19057069"><td bgcolor="#ffffff">
+            <p><a href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=633bfc07a84c7f79c388ba81" class="user-hover" rel="633bfc07a84c7f79c388ba81" data-account-id="633bfc07a84c7f79c388ba81" accountid="633bfc07a84c7f79c388ba81" rel="noreferrer">Brent Mckendrick</a> this is a new requirement coming out of the approved policy which we are determining to be a MUST HAVE. Can you please confirm and if there is a delegate in your area whom we can work with please let us know. Thanks.</p>
+        </td></tr>
+                <tr id="comment-header-19059925"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:f2ee1ef2-b992-4a99-8ef3-b300e1deeb05"
+                id="word_commented_712020:f2ee1ef2-b992-4a99-8ef3-b300e1deeb05"
+                href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Af2ee1ef2-b992-4a99-8ef3-b300e1deeb05">
+                    A Muhammed Abdul Majeeth
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">13/Aug/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-19059925"><td bgcolor="#ffffff">
+            <p>Created an Issue Template and an actions workflow in <b><em>non prod</em></b> repo <a href="https://github.com/CBANPD-Self-Service-Portal/oss-audit-track/issues" title="smart-link" class="external-link" rel="nofollow noreferrer">https://github.com/CBANPD-Self-Service-Portal/oss-audit-track/issues</a>  for testing this use case. The actions workflow is <em>yet to be</em> tested in non prod repo, since the non prod runners will not function after 10 P.M AEST Below explains the flow of Issue Template and actions workflow in detail:</p>
+
+<p>Once an engineer submits the <b>OSS Contribution Request</b> issue after entering the details like Name, GHEC Handle, Line Manager Handle and so on, an automated approval chain is triggered. The workflow will post a comment on the issue showing all 5 required approvals and their current status. No need of manually tagging the person for approval, instead the actions workflow will automatically tag the person and ask for approval in the below mentioned sequential order.</p>
+
+<ul>
+	<li>&lt;&gt; Engineer submits form<br/>
+        ↓<br/>
+Line Manager is tagged automatically → posts "Approving this request"<br/>
+        ↓<br/>
+Chief / Principal Engineer is tagged automatically → posts "Approving this request"<br/>
+        ↓<br/>
+Open Source Reviewers team is tagged automatically → any one member posts "Approving this request"<br/>
+        ↓<br/>
+Engineering Practice team is tagged automatically → any one member posts "Approving this request"<br/>
+        ↓<br/>
+Group Strategy is tagged automatically → posts "Approving this request"<br/>
+        ↓<br/>
+Request fully approved ✅</li>
+</ul>
+
+
+<p>Each approval automatically notifies the next person in line and at all stages the workflow will show who are all the overall approvers and the next in line approver.</p>
+
+<p>After each approval, the workflow then automatically updates the status table on the issue, confirms who approved, and calls out the next approver with clear instructions. If the wrong person tries to approve at any stage, they are told who the current approver should be and the chain does not advance.</p>
+
+<p>Once all 5 approvals are obtained, the issue is marked <tt>fully-approved</tt> and remains open permanently as an audit record and after carefully reviewing the fields and approvals, the Issue can be closed.</p>
+
+<p><b>Next Step of Actions:</b></p>
+
+<ul>
+	<li>Workflow in non prod repo to be tested</li>
+	<li>Once tested successfully, create a similar setup in prod repo.</li>
+</ul>
+
+        </td></tr>
+                <tr id="comment-header-19062227"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:9426d48c-5102-4974-8118-49731b247e29"
+                id="word_commented_712020:9426d48c-5102-4974-8118-49731b247e29"
+                href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A9426d48c-5102-4974-8118-49731b247e29">
+                    Uyen Tran
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">14/Aug/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-19062227"><td bgcolor="#ffffff">
+            <p><a href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=557058%3A820d018f-51ea-4c3e-bce9-9cedca33d51e" class="user-hover" rel="557058:820d018f-51ea-4c3e-bce9-9cedca33d51e" data-account-id="557058:820d018f-51ea-4c3e-bce9-9cedca33d51e" accountid="557058:820d018f-51ea-4c3e-bce9-9cedca33d51e" rel="noreferrer">Fabio Robibaro</a> In the guidelines it says that if they want to submit for another repository, they will have to submit another request.</p>
+        </td></tr>
+                <tr id="comment-header-19063490"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="557058:820d018f-51ea-4c3e-bce9-9cedca33d51e"
+                id="word_commented_557058:820d018f-51ea-4c3e-bce9-9cedca33d51e"
+                href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=557058%3A820d018f-51ea-4c3e-bce9-9cedca33d51e">
+                    Fabio Robibaro
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">14/Aug/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-19063490"><td bgcolor="#ffffff">
+            <p><a href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=633bfc07a84c7f79c388ba81" class="user-hover" rel="633bfc07a84c7f79c388ba81" data-account-id="633bfc07a84c7f79c388ba81" accountid="633bfc07a84c7f79c388ba81" rel="noreferrer">Brent Mckendrick</a>  can you please reivew this ticket to ensure the requirements are correct. Also is there a soluition you already intended to put in place?</p>
+        </td></tr>
+                <tr id="comment-header-19063688"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="5cb02aa961be986277e63e5f"
+                id="word_commented_5cb02aa961be986277e63e5f"
+                href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=5cb02aa961be986277e63e5f">
+                    Neha Bansal
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">14/Aug/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-19063688"><td bgcolor="#ffffff">
+            <p>Hi <a href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=633bfc07a84c7f79c388ba81" class="user-hover" rel="633bfc07a84c7f79c388ba81" data-account-id="633bfc07a84c7f79c388ba81" accountid="633bfc07a84c7f79c388ba81" rel="noreferrer">Brent Mckendrick</a> , if you are okay with this approach, we would need the people(GitHub handles) that should approve from following groups</p>
+
+<ul>
+	<li>Open Source Reviewers team</li>
+	<li>Engineering Practice team</li>
+	<li>Group Strategy</li>
+</ul>
+
+        </td></tr>
+                <tr id="comment-header-19063706"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="5cb02aa961be986277e63e5f"
+                id="word_commented_5cb02aa961be986277e63e5f"
+                href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=5cb02aa961be986277e63e5f">
+                    Neha Bansal
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">14/Aug/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-19063706"><td bgcolor="#ffffff">
+            <p><a href="https://commbank.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Af2ee1ef2-b992-4a99-8ef3-b300e1deeb05" class="user-hover" rel="712020:f2ee1ef2-b992-4a99-8ef3-b300e1deeb05" data-account-id="712020:f2ee1ef2-b992-4a99-8ef3-b300e1deeb05" accountid="712020:f2ee1ef2-b992-4a99-8ef3-b300e1deeb05" rel="noreferrer">A Muhammed Abdul Majeeth</a> hey, thank you for the update. There is slight change in the requirements where we want to only process one repository at a time.</p>
+
+<p>And we need to test as early as possible.</p>
+        </td></tr>
+            </table>
+Generated at Fri Aug 14 03:37:05 UTC 2026 by Neha Bansal using Jira 1001.0.0-SNAPSHOT#100293-rev:09488c5d5992fa029d9ea0a9f25e116811626893.
+
+</body>
+</html>
